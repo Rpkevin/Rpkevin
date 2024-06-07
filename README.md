@@ -3,7 +3,10 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rpkevin&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://https://github-readme-stats-git-main-kevins-projects-aad79ea3.vercel.app//api/top-langs/?username=Rpkevin&show_icons=true&theme=radical&layout=compact" />
- </div>
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=RpKevin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RpKevin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
  
  &nbsp;
  &nbsp;
